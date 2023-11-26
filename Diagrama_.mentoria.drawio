@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T17:09:13.799Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="PWBNX7rd72VIZ3m2sXKO" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T17:11:20.122Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="dm9oaWFDy6fns6eQTUwZ" version="22.1.4" type="github">
   <diagram name="Página-1" id="vPChAK9TrQFLgZUeRdgk">
     <mxGraphModel dx="1701" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +199,12 @@
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-74" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aoHVXnX_43bR2WEHdfWQ-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="740" y="600" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aoHVXnX_43bR2WEHdfWQ-77" value="&lt;b&gt;Azure DevOps&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746.88" y="660" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
