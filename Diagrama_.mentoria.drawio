@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T17:59:34.870Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DcQoW-VwseBY4Bjk0ZLg" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T18:02:19.914Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="n9mdE1PU0ze-hWJhsz66" version="22.1.4" type="github">
   <diagram name="Página-1" id="vPChAK9TrQFLgZUeRdgk">
     <mxGraphModel dx="1701" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,25 +201,25 @@
           <mxGeometry x="670" y="380" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-78" value="" style="group;fontSize=8;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650" y="570" width="320" height="90" as="geometry" />
+          <mxGeometry x="650" y="570" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry width="320" height="90" as="geometry" />
+          <mxGeometry width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-77" value="&lt;b&gt;Azure DevOps&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry x="5.503999999999997" y="60" width="72" height="30" as="geometry" />
+          <mxGeometry x="4.815999999999997" y="60" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-79" value="Pipeline" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=10;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry x="112" y="10" width="29.6" height="29.6" as="geometry" />
+          <mxGeometry x="98" y="10" width="25.900000000000002" height="25.900000000000002" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-80" value="Repos" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=10;image=img/lib/mscae/Azure_Repos.svg;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry x="168" y="7" width="28.8" height="32" as="geometry" />
+          <mxGeometry x="147" y="7" width="25.2" height="28" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-81" value="Boards" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=10;image=img/lib/mscae/Azure_Boards.svg;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry x="216" y="13.63" width="26.695999999999998" height="26.695999999999998" as="geometry" />
+          <mxGeometry x="189" y="13.63" width="23.358999999999998" height="23.358999999999998" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-82" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="aoHVXnX_43bR2WEHdfWQ-78">
-          <mxGeometry x="20" y="28" width="32" height="32" as="geometry" />
+          <mxGeometry x="17.5" y="28" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="aoHVXnX_43bR2WEHdfWQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.807;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aoHVXnX_43bR2WEHdfWQ-76" target="aoHVXnX_43bR2WEHdfWQ-21">
           <mxGeometry relative="1" as="geometry" />
