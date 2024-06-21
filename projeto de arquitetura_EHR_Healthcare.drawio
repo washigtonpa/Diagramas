@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T22:42:33.895Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="6bsKdkMZVX2wn8txrwW_" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T23:30:44.440Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="vSsj2eKaxq0ykWOmZwjM" version="24.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="789" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -78,15 +78,6 @@
         </mxCell>
         <mxCell id="2064" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Inteligência Artificial&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="773" y="550" width="140" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="2065" value="Queues" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.queue_generic;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="820" y="576" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="2066" value="Service Bus" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.service_bus;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="824" y="624" width="45" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2067" value="Media Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.media_service;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="821" y="703" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="998" y="301" width="50" height="30" as="geometry" />
@@ -295,6 +286,12 @@
         </mxCell>
         <mxCell id="WtlODYo92T-yIaE93u8p-2127" value="&lt;font color=&quot;#3584e4&quot;&gt;Application Insights&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Application_Insights.svg;" vertex="1" parent="1">
           <mxGeometry x="830" y="456" width="32.71" height="46.84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtlODYo92T-yIaE93u8p-2128" value="&lt;font color=&quot;#3584e4&quot;&gt;Azure Machine Learing&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Machine_Learning.svg;" vertex="1" parent="1">
+          <mxGeometry x="815.7" y="585" width="54.59" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="WtlODYo92T-yIaE93u8p-2129" value="&lt;font color=&quot;#3584e4&quot;&gt;Cognitive Services&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="811" y="692" width="68" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
