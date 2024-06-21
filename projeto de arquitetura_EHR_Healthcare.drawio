@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T23:39:27.134Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="7fSSmvzRhUYm8FHLal3R" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T23:47:57.643Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="SlLheGD5uW9qvjLqbqIX" version="24.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="789" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1241" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="2036" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#003366;shape=mxgraph.azure.cloud_service;dashed=1;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;opacity=25" parent="1" vertex="1">
           <mxGeometry x="100" y="175.25" width="970" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="2047" value="Windows Azure Management Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2047" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Arquitetura EHR Healthcare&lt;/p&gt;&lt;style type=&quot;text/css&quot;&gt;p, li { white-space: pre-wrap; }hr { height: 1px; border-width: 0; }li.unchecked::marker { content: &quot;\2610&quot;; }li.checked::marker { content: &quot;\2612&quot;; }&lt;/style&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1060" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2048" value="Escalabilidade" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
