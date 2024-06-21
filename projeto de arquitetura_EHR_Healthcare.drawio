@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T22:01:21.942Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="47KF9ReQz6bUP2blUDu6" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T22:02:30.987Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="RyEf1Qh-wbUKTU3dsfPj" version="24.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="789" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -271,6 +271,9 @@
         </mxCell>
         <mxCell id="WtlODYo92T-yIaE93u8p-2101" value="&lt;font color=&quot;#3584e4&quot;&gt;Data Lake Storage&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
           <mxGeometry x="631.82" y="544" width="50.46" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="WtlODYo92T-yIaE93u8p-2105" value="&lt;font color=&quot;#3584e4&quot;&gt;Entra ID&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" vertex="1" parent="1">
+          <mxGeometry x="449" y="680" width="68" height="60.440000000000005" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
