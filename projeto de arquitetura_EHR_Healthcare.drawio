@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T21:08:36.200Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Zd3O1G-k0oLT121lDglX" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T21:09:42.050Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="FWpwwgptrD_dubK2fo8x" version="24.5.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="789" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="900" y="131" width="67" height="39" as="geometry" />
         </mxCell>
         <mxCell id="2036" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#003366;shape=mxgraph.azure.cloud_service;dashed=1;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;opacity=25" parent="1" vertex="1">
-          <mxGeometry x="100" y="171.25" width="970" height="600" as="geometry" />
+          <mxGeometry x="100" y="175.25" width="970" height="600" as="geometry" />
         </mxCell>
         <mxCell id="2047" value="Windows Azure Management Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1060" height="50" as="geometry" />
@@ -245,6 +245,12 @@
         </mxCell>
         <mxCell id="R59pqWdX1YI7bb8d1t4M-2195" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Link.svg;" vertex="1" parent="1">
           <mxGeometry x="190.18" y="487.5" width="46.64" height="42.75" as="geometry" />
+        </mxCell>
+        <mxCell id="R59pqWdX1YI7bb8d1t4M-2198" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
