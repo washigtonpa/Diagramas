@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="1090" width="1090" x="60" y="27" as="geometry" />
+          <mxGeometry height="1010" width="1010" x="40" y="10" as="geometry" />
         </mxCell>
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" value="" vertex="1">
           <mxGeometry height="64" width="68" x="50" y="20" as="geometry" />
