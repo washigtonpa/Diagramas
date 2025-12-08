@@ -61,6 +61,18 @@
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-13" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" value="rt-hub01" vertex="1">
           <mxGeometry height="62" width="64" x="543" y="540" as="geometry" />
         </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="490" width="120" x="870" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-15" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" value="vm-web01" vertex="1">
+          <mxGeometry height="64" width="69" x="895.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" value="nsg-data01" vertex="1">
+          <mxGeometry height="68" width="56.00000000000001" x="902" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-17" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" value="rt-spoke01" vertex="1">
+          <mxGeometry height="62" width="64" x="898" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
