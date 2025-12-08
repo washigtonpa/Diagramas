@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6">
   <diagram name="Página-1" id="UxWR-kDbw4u3D7gDOQz7">
-    <mxGraphModel dx="1868" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-19" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" value="vnet-spoke&lt;br&gt;10.20.0.0/16" vertex="1">
           <mxGeometry height="40" width="67" x="891" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="North Euroope" vertex="1">
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="North Europe" vertex="1">
           <mxGeometry height="30" width="60" x="964.5" y="62" as="geometry" />
         </mxCell>
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sub-DataSrv&lt;br&gt;10.20.1.0/24" vertex="1">
