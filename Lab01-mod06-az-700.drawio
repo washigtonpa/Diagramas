@@ -73,7 +73,7 @@
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-17" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" value="rt-spoke01" vertex="1">
           <mxGeometry height="62" width="64" x="898" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-18" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" value="" vertex="1">
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-18" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" value="peering" vertex="1">
           <mxGeometry height="68" width="68" x="750" y="380" as="geometry" />
         </mxCell>
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-19" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" value="vnet-spoke&lt;br&gt;10.20.0.0/16" vertex="1">
@@ -122,6 +122,36 @@
             </Array>
             <mxPoint x="510" y="695" as="sourcePoint" />
             <mxPoint x="560" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-44" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses_Classic.svg;" value="pip-fw" vertex="1">
+          <mxGeometry height="52" width="64" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-45" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses_Classic.svg;" value="pip-appgw" vertex="1">
+          <mxGeometry height="52" width="64" x="80" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-46" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses_Classic.svg;" value="pip-bastion" vertex="1">
+          <mxGeometry height="52" width="64" x="80" y="373.21000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="620" />
+            </Array>
+            <mxPoint x="144" y="620" as="sourcePoint" />
+            <mxPoint x="180" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-50" edge="1" parent="1" source="Qrt0HXaYCqYsPwHm8VS8-46" style="endArrow=none;html=1;rounded=0;exitX=0.963;exitY=0.482;exitDx=0;exitDy=0;exitPerimeter=0;" target="MzSOx_wMNDYz2FpmPfrl-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="399" as="sourcePoint" />
+            <mxPoint x="160" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.963;exitY=0.482;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="144" y="216.5" as="sourcePoint" />
+            <mxPoint x="202" y="215.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
