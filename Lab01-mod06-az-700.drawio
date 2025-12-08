@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="1090" width="1090" x="30" y="10" as="geometry" />
+          <mxGeometry height="1090" width="1090" x="60" y="27" as="geometry" />
         </mxCell>
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" value="" vertex="1">
           <mxGeometry height="64" width="68" x="50" y="20" as="geometry" />
@@ -104,7 +104,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qrt0HXaYCqYsPwHm8VS8-28" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.ddos_protection;" value="" vertex="1">
-          <mxGeometry height="45.8" width="40" x="778" y="680" as="geometry" />
+          <mxGeometry height="77.86" width="68" x="750" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-42" edge="1" parent="1" source="Qrt0HXaYCqYsPwHm8VS8-28" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.877;exitY=0.548;exitDx=0;exitDy=0;exitPerimeter=0;" target="Qrt0HXaYCqYsPwHm8VS8-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="719" />
+            </Array>
+            <mxPoint x="700" y="680" as="sourcePoint" />
+            <mxPoint x="750" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrt0HXaYCqYsPwHm8VS8-43" edge="1" parent="1" source="Qrt0HXaYCqYsPwHm8VS8-28" style="endArrow=classic;html=1;rounded=0;exitX=0.078;exitY=0.592;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="730" />
+            </Array>
+            <mxPoint x="510" y="695" as="sourcePoint" />
+            <mxPoint x="560" y="645" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
