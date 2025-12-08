@@ -13,7 +13,7 @@
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RG-AZ700&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Canada Centra&lt;/font&gt;l&lt;/div&gt;" vertex="1">
           <mxGeometry height="33" width="110" x="118" y="27" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
           <mxGeometry height="500" width="290" x="430" y="140" as="geometry" />
         </mxCell>
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
