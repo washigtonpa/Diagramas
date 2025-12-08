@@ -16,20 +16,20 @@
         <mxCell id="MzSOx_wMNDYz2FpmPfrl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="500" width="290" x="430" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="140" x="200" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="140" x="200" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-12" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-12" connectable="0" parent="1" style="group;fillColor=#bac8d3;strokeColor=#23445d;container=0;" value="" vertex="1">
           <mxGeometry height="170" width="140" x="200" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-8" parent="MzSOx_wMNDYz2FpmPfrl-12" style="rounded=1;whiteSpace=wrap;html=1;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="140" as="geometry" />
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="AzureFirewallSubnet&lt;br&gt;10.10.250.0/24&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FW-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="140" x="200" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="MzSOx_wMNDYz2FpmPfrl-9" parent="MzSOx_wMNDYz2FpmPfrl-12" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" value="" vertex="1">
-          <mxGeometry height="68" width="68" x="30" y="51" as="geometry" />
+        <mxCell id="MzSOx_wMNDYz2FpmPfrl-9" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="68" x="236" y="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
